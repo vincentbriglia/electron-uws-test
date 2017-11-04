@@ -57,10 +57,10 @@
         "babel-preset-react": "^6.24.1",
         "electron-forge": "^4.1.2",
         "electron-prebuilt-compile": "1.7.9",
-        "eslint": "^3",
-        "eslint-config-airbnb": "^15",
+        "eslint": "^4.10.0",
+        "eslint-config-airbnb": "^16.1.0",
         "eslint-plugin-import": "^2",
-        "eslint-plugin-jsx-a11y": "^5",
+        "eslint-plugin-jsx-a11y": "^6.0.2",
         "eslint-plugin-react": "^7"
     }
 }
